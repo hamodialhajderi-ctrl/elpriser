@@ -19,8 +19,7 @@ Programmet skriver ut högsta, lägsta och genomsnittligt pris för det valda da
 och elområdet, samt vilken tidpunkt som hade dygnets högsta pris. Resultatet sparas 
 i filen `elpriser.csv`.
 
-## Analys
-[Skri## Analys
+## Analys 
 Resultatet visar tydligt att elpriset varierar mycket under dygnet. Det högsta priset 
 inträffade vid 18:45 (2,56 SEK/kWh), vilket troligen beror på att det är då flest 
 människor lagar mat, duschar och använder el samtidigt efter jobb/skola — alltså hög 
