@@ -47,4 +47,4 @@ steg för steg.
 3. Öppna `elpris_projekt.ipynb` i VS Code eller Jupyter och kör cellerna i ordning.
 
 ## GitHub-länk
-https://github.com/hamodialhajderi-ctrl/elpriser]SSSSSSSSS
+https://github.com/hamodialhajderi-ctrl/elpriser]
