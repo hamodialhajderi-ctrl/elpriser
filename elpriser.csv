@@ -1,4 +1,4 @@
-tid,pris_sek_per_kwh,är_dyrt
+tid,pris_sek_per_kwh,är_dyrt 
 2026-09-24T00:00:00+02:00,1.14568,False
 2026-09-24T00:15:00+02:00,1.4087,False
 2026-09-24T00:30:00+02:00,1.34877,False
